@@ -40,8 +40,8 @@ AI_Pneumonia_Detection/
 ### 1. Clone or Download the Project
 
 ```bash
-git clone <repository_url>
-cd AI_Pneumonia_Detection
+git clone https://github.com/agnes0805/AI-Pneumonia-Detection.git
+cd AI-Pneumonia-Detection
 ```
 
 ### 2. Create a Virtual Environment (Optional)
@@ -127,6 +127,7 @@ Always consult a physician or radiologist for medical decisions.
 ## Author
 
 Developed as an AI Pneumonia Detection project using Deep Learning, Streamlit, and Grad-CAM.
+
 ## Model File
 
 The trained model (`best_pneumonia_model.keras`) is not included in this repository because it exceeds GitHub's upload size limit.
