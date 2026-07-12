@@ -144,3 +144,28 @@ To run the application:
    ```bash
    streamlit run app.py
    ```
+## Application Screenshots
+
+### Home Page
+![Home Page](assets/Home%20page.png)
+
+### X-ray Upload (Normal)
+![Upload Normal](assets/X-ray%20upload%20page-normal.png)
+
+### X-ray Upload (Pneumonia)
+![Upload Pneumonia](assets/X-ray%20upload%20page-pnemonia.png)
+
+### Prediction Result (Normal)
+![Prediction Normal](assets/pred%26medicalrec-normsl.png)
+
+### Prediction Result (Pneumonia)
+![Prediction Pneumonia](assets/prediction%26medicalreco-pne.png)
+
+### Grad-CAM Visualization
+![GradCAM](assets/Grad-CAM%20heatmap-pnemonia.png)
+
+### AI Medical Assistant
+![Chatbot](assets/chatbot.png)
+
+### PDF Report
+![Report](assets/report.png)
