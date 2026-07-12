@@ -127,3 +127,20 @@ Always consult a physician or radiologist for medical decisions.
 ## Author
 
 Developed as an AI Pneumonia Detection project using Deep Learning, Streamlit, and Grad-CAM.
+## Model File
+
+The trained model (`best_pneumonia_model.keras`) is not included in this repository because it exceeds GitHub's upload size limit.
+
+To run the application:
+
+1. Place the trained model file in the project root.
+2. Ensure it is named:
+   `best_pneumonia_model.keras`
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Start the application:
+   ```bash
+   streamlit run app.py
+   ```
